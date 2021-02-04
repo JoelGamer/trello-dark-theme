@@ -1,0 +1,83 @@
+.body-card-label-text {
+  background-color: #202124;
+}
+
+.list {
+  background-color: #3B3D42 !important;
+}
+
+.list-card {
+  background-color: #202124 !important;
+}
+
+.badge-icon {
+  color: white !important;
+}
+
+.badge-text {
+  color: white !important;
+}
+
+.list-card-title {
+  color: white !important;
+}
+
+.list-header textarea {
+  color: white !important;
+}
+
+.list-header-name {
+  color: white !important;
+}
+
+.list-header-extras-menu {
+  color: white !important;
+}
+
+.list-header-num-cards {
+  color: white !important;
+}
+
+.open-card-composer {
+  color: white !important;
+}
+
+.icon-sm {
+  color: white !important;
+}
+
+.window {
+  background-color: #202124 !important;
+}
+
+.window-module h1 {
+  color: white !important;
+}
+
+.window-module h2 {
+  color: white !important;
+}
+
+.window-module h3 {
+  color: white !important;
+}
+
+.window-module h4 {
+  color: white !important;
+}
+
+.window-module h5 {
+  color: white !important;
+}
+
+.window-module p {
+  color: white !important;
+}
+
+.window-module hr {
+  background-color: white !important;
+}
+
+.window-title textarea {
+  color: white !important;
+}
